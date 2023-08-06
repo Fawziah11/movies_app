@@ -1,16 +1,15 @@
 # movies_app
 
-A new Flutter project.
+The movies app shows the last movies, Upcoming, Trending ...etc.
 
-## Getting Started
+## Important Function on the Movies App
 
-This project is a starting point for a Flutter application.
+- Show the Upcoming movies.
+- Show the trending movies.
+- Show the movie details like a description of the movie.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="230" alt="meal-app pic1" src=""> 
+<img width="230" alt="meal-app pic2" src="">
